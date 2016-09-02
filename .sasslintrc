@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "property-sort-order": [1, { "order": centric }],
+    "force-element-nesting": [0],
+    "class-name-format": "ignore"
+  }
+}

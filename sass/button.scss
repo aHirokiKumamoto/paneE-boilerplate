@@ -1,0 +1,9 @@
+.button {
+  background-color: $button-color;
+  width: 200px;
+  height: 100px;
+}
+
+.button--active {
+  background-color: $active-button-color;
+}
